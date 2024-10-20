@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400..700;1,400..700&display=swap');
+
+*{
+  font-family: 'Instrument Sans';
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.main-container{
+  margin-left: 160px;
+  margin-right: 160px;
+}
+
+.title{
+  text-align: center;
+  font-size: 3rem;
+  padding: 50px;
+}
+
+.article-header{
+  font-size: 2rem;
+  text-align: center;
+  padding: 50px;
+}
+
+.hero-container{
+  text-align: center;
+  padding: 50px;
+}
+
+.hero-container img{
+  width: 500px;
+}
+
+.article{
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+  gap: 50px;
+}
+
+.article-item{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 50px;
+}
+
+.link-container{
+  width: 50%;
+  height: 100px;
+  text-align:center;
+}
+
+.link-container a{
+  text-decoration: none;
+}
+
+.btn{
+  height: 100%;
+  width: 100%;
+  font-size: 1.875rem;
+  border: 2px solid black;
+  border-radius: 50px;
+  background-color: white;
+}
+
+.btn:hover{
+  cursor: pointer;
+  background-color: black;
+  color: white;
+}
+
+footer{
+  width: 100%;
+  text-align: center;
+  padding: 50px;
+  margin-top: 50px;
+  font-weight: normal;
+}
+
+footer .name{
+  font-weight: normal;
+}
+
+footer .NIM{
+  font-weight: normal;
+}
