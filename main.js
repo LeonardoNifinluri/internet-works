@@ -1,4 +1,4 @@
-import '/styles/style.css'
+import '/style.css'
 import $ from 'jquery'
 
 //example of using function from different js file
