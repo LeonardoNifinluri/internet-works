@@ -24,7 +24,7 @@ const page = `
                 <!-- article item flex direction row -->
                 <li class="article-item">
                     <div class="link-container">
-                        <a href="internet-basic.html">
+                        <a href="/internet-basic.html">
                             <button class="btn">Internet Basic</button>
                         </a>
                     </div>
@@ -32,7 +32,7 @@ const page = `
 
                 <li class="article-item">
                     <div class="link-container">
-                        <a href="http-https.html">
+                        <a href="/http-https.html">
                             <button class="btn">HTTP and HTTPS</button>
                         </a>
                     </div>
@@ -40,7 +40,7 @@ const page = `
 
                 <li class="article-item">
                     <div class="link-container">
-                        <a href="domain-name.html">
+                        <a href="/domain-name.html">
                             <button class="btn">Domain Name</button>
                         </a>
                     </div>                   
@@ -48,7 +48,7 @@ const page = `
 
                 <li class="article-item">
                     <div class="link-container">
-                        <a href="hosting.html">
+                        <a href="/hosting.html">
                             <button class="btn">Hosting</button>
                         </a>
                     </div>
@@ -56,7 +56,7 @@ const page = `
 
                 <li class="article-item">
                     <div class="link-container">
-                        <a href="dns.html">
+                        <a href="/dns.html">
                             <button class="btn">DNS</button>
                         </a>
                     </div>
@@ -64,7 +64,7 @@ const page = `
 
                 <li class="article-item">
                     <div class="link-container">
-                        <a href="browser.html">
+                        <a href="/browser.html">
                             <button class="btn">Browser</button>
                         </a>
                     </div>
