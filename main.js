@@ -24,7 +24,7 @@ const page = `
                 <!-- article item flex direction row -->
                 <li class="article-item">
                     <div class="link-container">
-                        <a href="view/internet-basic.html">
+                        <a href="/view/internet-basic.html">
                             <button class="btn">Internet Basic</button>
                         </a>
                     </div>
